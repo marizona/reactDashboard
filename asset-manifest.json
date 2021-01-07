@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactDashboard/static/css/main.ffa2456d.chunk.css",
+    "main.js": "/reactDashboard/static/js/main.f7aa28d3.chunk.js",
+    "main.js.map": "/reactDashboard/static/js/main.f7aa28d3.chunk.js.map",
+    "runtime-main.js": "/reactDashboard/static/js/runtime-main.4665393b.js",
+    "runtime-main.js.map": "/reactDashboard/static/js/runtime-main.4665393b.js.map",
+    "static/css/2.e71a1a6e.chunk.css": "/reactDashboard/static/css/2.e71a1a6e.chunk.css",
+    "static/js/2.932a9b1c.chunk.js": "/reactDashboard/static/js/2.932a9b1c.chunk.js",
+    "static/js/2.932a9b1c.chunk.js.map": "/reactDashboard/static/js/2.932a9b1c.chunk.js.map",
+    "static/js/3.6aaa26ae.chunk.js": "/reactDashboard/static/js/3.6aaa26ae.chunk.js",
+    "static/js/3.6aaa26ae.chunk.js.map": "/reactDashboard/static/js/3.6aaa26ae.chunk.js.map",
+    "index.html": "/reactDashboard/index.html",
+    "static/css/2.e71a1a6e.chunk.css.map": "/reactDashboard/static/css/2.e71a1a6e.chunk.css.map",
+    "static/css/main.ffa2456d.chunk.css.map": "/reactDashboard/static/css/main.ffa2456d.chunk.css.map",
+    "static/js/2.932a9b1c.chunk.js.LICENSE.txt": "/reactDashboard/static/js/2.932a9b1c.chunk.js.LICENSE.txt",
+    "static/media/bitcoin.b751c751.png": "/reactDashboard/static/media/bitcoin.b751c751.png",
+    "static/media/emoji.45aa6349.png": "/reactDashboard/static/media/emoji.45aa6349.png",
+    "static/media/monde.a39642e9.png": "/reactDashboard/static/media/monde.a39642e9.png",
+    "static/media/open.c8f44d86.png": "/reactDashboard/static/media/open.c8f44d86.png",
+    "static/media/spot.32cefd6e.png": "/reactDashboard/static/media/spot.32cefd6e.png",
+    "static/media/un.1f19068c.png": "/reactDashboard/static/media/un.1f19068c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4665393b.js",
+    "static/css/2.e71a1a6e.chunk.css",
+    "static/js/2.932a9b1c.chunk.js",
+    "static/css/main.ffa2456d.chunk.css",
+    "static/js/main.f7aa28d3.chunk.js"
+  ]
+}
