@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  dashboard-front:
+    container_name: dashboard-front 
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - '3000:80'
+

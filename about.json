@@ -1,0 +1,100 @@
+{
+    "customer": {
+        "host": "127.0.0.1"
+    },
+    "server": {
+        "current_time": "date",
+
+        "services": [{
+
+            "name": "weather",
+            "widgets": [{
+                "name": "weather",
+                "description": "Display temperature for a city", 
+                "params": [{
+                    "name": "city",
+                    "type": "string"
+                }, {
+                    "name": "country",
+                    "type": "string"
+                }]
+            }]
+
+        }, {
+            "name": "cinema",
+            "widgets": [{
+                "name": "IMDB",
+                "description": "Display the films of a search", 
+                "params": [{
+                    "name": "link",
+                    "type": "string"
+                }]
+            }]
+
+        }, {
+            "name": "spotify",
+            "widgets": [{
+                "name": "spotify",
+                "description": "Display the music listened to on your spotify account" 
+            }]
+
+        }, {
+            "name": "CurrencyRow",
+            "widgets": [{
+                "name": "CurrencyRow",
+                "description": "Display the exchange rate from one currency to another", 
+                "params": [{
+                    "name": "number",
+                    "type": "integer"
+                }]
+            }]
+
+        }, {
+            "name": "Coin",
+            "widgets": [{
+                "name": "Coin",
+                "description": "Display the value, the total volume, the marketcap of the crypto-currencies and a search", 
+                "params": [{
+                    "name": "input",
+                    "type": "string"
+                }]
+            }]
+
+        }, {
+            "name": "unsplash",
+            "widgets": [{
+                "name": "unsplash",
+                "description": "Display images of a search", 
+                "params": [{
+                    "name": "input",
+                    "type": "string"
+                }]
+            }]
+
+        }, {
+            "name": "CovidTracker",
+            "widgets": [{
+                "name": "CovidTracker",
+                "description": "Display the number of COVID19 cases, deaths, recovered in the US" 
+            }]
+
+        }, {
+            "name": "Quiz",
+            "widgets": [{
+                "name": "Quiz",
+                "description": "Display 5 questions and the result of the game" 
+            }]
+
+        }, {
+            "name": "news",
+            "widgets": [{
+                "name": "news",
+                "description": "Display the latest news from Le Monde newspaper", 
+                "params": [{
+                    "name": "link",
+                    "type": "string"
+                }]
+            }]
+        }]
+    }
+}

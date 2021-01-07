@@ -1,0 +1,67 @@
+
+  h1 .currency-title {
+    margin: 0;
+    margin-bottom: .5rem;
+  }
+
+  .currency-title {
+    font-weight: bold;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    color: white;
+  }
+  
+  .input {
+    border: 1px solid black;
+    border-radius: .3em;
+    padding: 1px 3px 0 1px;
+    border-width: 3px;
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    margin-bottom: 10%;
+    background: black;
+  }
+  
+  select {
+    margin-left: .5rem;
+    display: block;
+    margin: auto;
+    width: 50%;
+    align-items: center;
+    background: none;
+    border: 1px solid white;
+    border-radius: 10%;
+    color: black;
+    text-align: center;
+  }
+
+  select option {
+    background: linear-gradient(to right, #1e3c72, #2a5298)
+  }
+  
+  .equals {
+    font-weight: bold;
+    font-size: 30px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color: white;
+  }
+
+  .appcurrency { 
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    width: 30%;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    height: 40%;
+    border-radius: 5px;
+    
+  }
+  .display-curent {
+    margin: auto;
+    width: 50%;
+ }

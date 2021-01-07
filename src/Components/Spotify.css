@@ -1,0 +1,26 @@
+
+
+.btn {
+  /*margin-left:30px;*/
+    background-color: #1ecd97;
+    border-radius: 2em;
+    color: #1ecd97;
+    cursor: pointer;
+    font-size: 3vmin;
+    color: white;
+    padding: 0.7em 1.5em;
+    text-transform: uppercase;
+    transition: all 0.25s ease;
+   
+
+    
+  }
+  
+  .btn:hover {
+    background: #1ecd97;
+    color: #333;
+  }
+  
+  .btn--login {
+    margin: 0 auto;
+  }

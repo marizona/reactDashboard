@@ -1,0 +1,61 @@
+.HomePage {
+    color:black;
+    font-family: "Montserrat", sans-serif;
+    font-size: 54px;
+    font-weight: 300;
+    line-height: 58px;
+    margin: 0 0 58px;
+    text-align: center;
+    margin-top: 7%;
+    padding-bottom: 80px;
+  }
+  .b{
+    margin-left:30px;
+    background-color: #1ecd97;
+    border-radius: 2em;
+    color: #1ecd97;
+    cursor: pointer;
+    font-size: 3vmin;
+    color: white;
+    padding: 0.7em 1.5em;
+    text-transform: uppercase;
+    transition: all 0.25s ease;
+   
+  }
+
+  .bt{
+    margin-left:30px;
+    background-color: #1ecd97;
+    border-radius: 2em;
+    color: #1ecd97;
+    cursor: pointer;
+    font-size: 3vmin;
+    color: white;
+    padding: 0.7em 1.5em;
+    text-transform: uppercase;
+    transition: all 0.25s ease;
+   
+  }
+  .bt:hover {
+    background: #1ecd97;
+    color: #333;
+  }
+  
+  .b:hover {
+    background: #1ecd97;
+    color: #333;
+  }
+
+
+  .intro{
+    padding-bottom: 80px;
+  }
+.titl{
+  width: 230px;
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
+

@@ -1,0 +1,33 @@
+.navigation {
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+nav .nav .navbar {
+    width: 100%;
+  }
+
+#collasible-nav-dropdown {
+    color: white;
+    font-size: 20px;
+}
+
+div .dropdown-menu {
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    border: none;
+}
+
+div .dropdown-item {
+    color: white;
+}
+
+div .dropdown-item:hover {
+    background-color: white;
+    color: black;
+}
+
+div .board {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 5%;
+}

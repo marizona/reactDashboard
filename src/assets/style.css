@@ -1,0 +1,83 @@
+.container9 {
+    width: 50%;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .titleQuiz {
+    background-color: #F4D03F;
+    background-color: #FFDEE9;
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+    
+
+
+    color: rgb(255, 255, 255);
+    padding: 2%;
+    font-size: 200%;
+    border-radius: 5px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .question {
+    font-size: 100%;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .questionBox {
+ 
+    margin-top: 5px;
+    padding: 2%;
+    box-sizing: border-box;
+    background-color: rgb(250, 250, 250);
+  }
+  
+  .answerBtn {
+    padding: 1%;
+    background-color: #FA8BFF;
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+    
+
+    display: inline-block;
+    margin: 1%;
+    outline: none;
+    border: none;
+    font-size: 100%;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .scoreBoard {
+    height: 100%;
+    margin: 5%;
+  }
+  
+  .score {
+    width: 100%;
+    font-size: 200%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .playBtn {
+    border-radius: 30px;
+    text-align: center;
+    font-size: 130%;
+    padding: 1.5%;
+    background-color: rgb(46, 182, 46);
+    color: rgb(255, 255, 255);
+    width: 20%;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    outline: none;
+    cursor: pointer;
+  }
+  
